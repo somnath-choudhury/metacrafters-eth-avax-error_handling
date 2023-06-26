@@ -37,4 +37,4 @@ If the condition resolves to false, assert reverts the state of the smart contra
 
 Syntax: assert(condition)
 
-### Note: require() and revert() return the unused gas back to the caller while assert() uses up all the gas
+### Note: require() and revert() return the unused gas back to the caller while assert() uses up all the gas.
